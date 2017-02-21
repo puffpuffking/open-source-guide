@@ -6,7 +6,10 @@ locale: en-US
 translations:
   - locale: en-US
     name: English (US)
-    repository: github/open-source-guide
+    url: https://opensource.guide
+  - locale: test
+    name: Testing
+    url: https://bkeepers.github.io/open-source-guide
 
 exclude:
   - bin

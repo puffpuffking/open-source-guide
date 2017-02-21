@@ -34,6 +34,7 @@
     "vfile-statistics": "^1.0.0"
   },
   "dependencies": {
+    "browser-locale": "^1.0.0",
     "primer-css": "^4.7.0"
   }
 }
